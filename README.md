@@ -28,7 +28,7 @@ X O O S O O O O O O
 X X X X X O O G O O  
 X X X X X X O O O X**  
 
-##The Files
+## The Files
 
 `Bloxorz.py:` Contains an implementation of Bloxorz from scratch.
 
@@ -38,7 +38,7 @@ X X X X X X O O O X**
 
 `UcsSearch.py:` Solves the game with a given board and a goal by using UCS. Also prints the optimal solution, time taken to find the solution, peak memory consumption during the process
 
-##Algorithms used to solve the problem
+## Algorithms used to solve the problem
 
 - A* Search
 - Uniform Cost Search
