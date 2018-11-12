@@ -43,5 +43,10 @@ X X X X X X O O O X**
 - A* Search
 - Uniform Cost Search
 
+## Example folutions found by the algorithm
+
+`['Right', 'Right', 'Right', 'Down', 'Down', 'Right']`
+`['Right', 'Down', 'Right', 'Right', 'Down', 'Right']`
+
 ## More Information with A Report
 [Report](report.pdf)
