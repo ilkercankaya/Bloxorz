@@ -43,7 +43,7 @@ X X X X X X O O O X**
 - A* Search
 - Uniform Cost Search
 
-## Example folutions found by the algorithm
+## Example solutions found by the algorithm
 
 `['Right', 'Right', 'Right', 'Down', 'Down', 'Right']`
 
