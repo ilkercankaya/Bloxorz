@@ -40,7 +40,7 @@ X X X X X X O O O X**
 
 ## Algorithms used to solve the problem
 
-- A* Search
+- A* Search with a Euclidean Distance Heuristic
 - Uniform Cost Search
 
 ## Example solutions found by the algorithm
